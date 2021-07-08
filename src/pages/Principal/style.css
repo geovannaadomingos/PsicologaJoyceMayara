@@ -10,7 +10,7 @@ section{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top:210px;
+    padding-top:225px;
     padding-bottom: 80px;
     background: url(../../assets/background.jpeg) no-repeat;
     background-size:cover;
@@ -116,7 +116,7 @@ section{
         padding: 100px;
     }
     .header_banner{
-        padding-top:160px;
+        padding-top:175px;
         padding-bottom: 60px;
     }
     
