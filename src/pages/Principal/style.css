@@ -173,7 +173,7 @@ section{
     }
     .header_banner{
         display: inline-block;
-        padding-top: 190px;
+        padding-top: 200px;
         font-size: 13px;
     }
     .header_banner_div{
@@ -220,8 +220,8 @@ section{
 
 
     .section_sobre {
-        padding-top: 155px;
-        padding-bottom: 155px;
+        padding-top: 160px;
+        padding-bottom: 160px;
     }
     .section_sobre_h2{
         font-size: 18px;
