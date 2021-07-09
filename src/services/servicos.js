@@ -5,13 +5,13 @@ const servicos = [
         id:0,
         img: iconeComputador,
         nome: "Psicoterapia Presencial",
-        descricao: "descrição curta sobre o serviço de psicoterapia presencial"
+        descricao: "Atendimento presencial no consultório, localizado no bairro da Boa Vista, na cidade do Recife."
     },
     {
         id:1,
         img: iconeLocal,
         nome: "Psicoterapia Online",
-        descricao: "descrição curta sobre o serviço de psicoterapia online"
+        descricao: "Atendimento online voltado para brasileiros que residam em qualquer estado ou país."
     }
 ]
 export default servicos

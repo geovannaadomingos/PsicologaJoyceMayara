@@ -84,6 +84,14 @@ section{
     padding-top: 15px;
 }
 
+.section_sobre_h3{
+    width: 100%;
+    display: block;
+    padding-top: 80px;
+    font-weight: bold;
+    color: #B79BBF;
+}
+
 /*Section Serviços*/
 .section_servicos{
     text-align: center;
@@ -135,7 +143,10 @@ section{
         margin-left: 10px;
     }
     .header_banner_img {
-        width: 60px;
+        width: 40px;
+    }
+    .header_banner_button{
+        padding: 10px;
     }
     .header_banner_button_a {
         font-size: 10px;
@@ -236,6 +247,9 @@ section{
         padding-left: 15px;
         padding-right: 15px;
         font-size: 12px;
+    }
+    .section_sobre_h3{
+        font-size: 15px;
     }
 
 

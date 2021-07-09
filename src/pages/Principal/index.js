@@ -15,8 +15,8 @@ const Principal = () => {
                 <section className="header_banner" id="header_banner">
                     <div className="header_banner_div">
                         <h1 className="header_banner_h1">O que é psicoterapia?</h1>
-                        <p className="header_banner_p">parágrafo sobre o que é psicoterapia, bem como qual é a sua importância e como Joyce te ajuda a lidar com isso.</p>
-                        <p className="header_banner_p">parágrafo sobre o que é psicoterapia, bem como qual é a sua importância e como Joyce te ajuda a lidar com isso. sdddddddefs dkkjdkjdk ikfejo w     d odo jwdojosdosj dojw s od oje dojoej doj dojoje od odoajdoj ojdoejoj doejdoejd deokdo  do oedowjdj dowjdowdjo</p>
+                        <p className="header_banner_p">Conhecida  por ser um processo de autoconhecimento, autoconstrução - e também de desconstrução - é o encontro que se dá entre terapeuta e cliente, com duração de quarenta e cinco minutos à uma hora.</p>
+                        <p className="header_banner_p">Em um espaço que tem como regra o sigilo e o não julgamento, considerando a subjetividade de cada pessoa, o intuito é o de ajudar os indivíduos a desenvolverem toda potência presente na existência.</p>
                     </div>
                     <div className="header_banner_div2">
                         <div className="header_banner_div1_img">
@@ -37,9 +37,10 @@ const Principal = () => {
                     <div className="section_sobre_div">
                         <img className="section_sobre_img" src={imagemJoyce} alt="imagem psicóloga Joyce Mayara" />
                         <div className="section_sobre_div_p">
-                            <p className="section_sobre_p">Aqui será o parágrafo no qual existirão informações sobre a psicóloga, suas experiências, sua área de estuddo e sua abordagem.</p>
-                            <p className="section_sobre_p">Aqui será o parágrafo no qual existirão informações sobre a psicóloga, suas experiências, sua área de estuddo e sua abordagem. ashdkdhiuw ahidhiuwh iduha iwuhdiu</p>
+                            <p className="section_sobre_p">Olá, sou Joyce: humana, psicológa(CRP: 02 / 22840), empreendedora, em constante processo de transformação e especializada em psicologia hospitalar. Atualmente, atuo no Hospital de Referência para tratamento da Covid-19, na cidade do Recife - PE, bem como na clínica, realizando atendimentos psicoterápicos - onlines e presenciais - voltados para adultos e idosos.</p>
+                            <p className="section_sobre_p">A Abordagem Centrada na Pessoa(ACP), criada pelo também psicólogo Carl Rogers, é a minha abordagem norteadora na clínica. Ela tem como foco a tendência dos seres vivos à atualização e ao crescimento e refere-se a um jeito de ser e de se estar no mundo. Segundo sua perspectiva, para que as pessoas estabeleçam relações genuínas, é necessário: consideração positiva incondicional, empatia e  congruência.</p>
                         </div>
+                        <h3 className="section_sobre_h3">“Durante a terapia, o sentimento de aceitação e de respeito do terapeuta em relação ao cliente tende a transformar-se em alguma coisa que se aproxima da admiração, à medida que vamos assistindo a luta profunda e corajosa que a pessoa trava para ser ela própria.” - Carl Rogers</h3>
                     </div>
                 </section>
                 <section className="section_servicos" id="section_servicos">
