@@ -87,9 +87,12 @@ section{
 .section_sobre_h3{
     width: 100%;
     display: block;
-    padding-top: 80px;
+    padding-top: 60px;
     font-weight: bold;
     color: #B79BBF;
+    font-size: 20px;
+    padding-left:100px;
+    padding-right:100px;
 }
 
 /*Section Serviços*/
@@ -164,6 +167,10 @@ section{
     .section_sobre_img{
         width: 180px;
         margin-top: 30px;
+    }
+    .section_sobre_h3{
+        padding-left:10px;
+        padding-right:10px;
     }
 
     .section_servicos{
@@ -250,6 +257,8 @@ section{
     }
     .section_sobre_h3{
         font-size: 15px;
+        padding-left:0;
+        padding-right:0;
     }
 
 
