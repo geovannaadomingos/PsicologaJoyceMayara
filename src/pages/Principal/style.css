@@ -10,8 +10,8 @@ section{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top:225px;
-    padding-bottom: 80px;
+    padding-top:235px;
+    padding-bottom: 85px;
     background: url(../../assets/background.jpeg) no-repeat;
     background-size:cover;
 }
