@@ -10,8 +10,8 @@ section{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top:235px;
-    padding-bottom: 85px;
+    padding-top:225px;
+    padding-bottom: 80px;
     background: url(../../assets/background.jpeg) no-repeat;
     background-size:cover;
 }
@@ -173,7 +173,7 @@ section{
     }
     .header_banner{
         display: inline-block;
-        padding-top: 180px;
+        padding-top: 190px;
         font-size: 13px;
     }
     .header_banner_div{
